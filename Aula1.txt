@@ -1,0 +1,11 @@
+git help
+
+git help add
+git help commit
+git help <qualquer_comando_git>
+
+git config --global user.name "Leonardo Comelli"
+git config --global user.email leonardo@software-ltda.com.br
+git init
+git status
+git add meu_arquivo.txt
